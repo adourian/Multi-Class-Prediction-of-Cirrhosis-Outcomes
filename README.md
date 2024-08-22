@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/d5b9678f-8cd9-4011-9580-edaaf1ec63cd)
 <sub>Figure 1: Cirrhosis liver tissue under microscopic examination.</sub>
 
-This project is based on the Kaggle competition [Cirrhosis Patient Survival Prediction](https://www.kaggle.com/competitions/playground-series-s3e26/overview).
+This project was undertaken as a part of the Kaggle competition [Cirrhosis Patient Survival Prediction](https://www.kaggle.com/competitions/playground-series-s3e26/overview).
 
 ## 🎯 Background and Objective
 
