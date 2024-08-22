@@ -1,6 +1,8 @@
 # Multi-Class Prediction of Cirrhosis Outcomes
 
 ![image](https://github.com/user-attachments/assets/d5b9678f-8cd9-4011-9580-edaaf1ec63cd)
+<sub>Figure 1: Cirrhosis liver tissue under microscopic examination.</sub>
+
 
 ## Overview
 
