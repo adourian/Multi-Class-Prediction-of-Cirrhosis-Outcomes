@@ -1,8 +1,6 @@
 # Multi-Class Prediction of Cirrhosis Outcomes
 
-<div style="text-align:center">
-    <img src="attachment:e49bb18b-c9ce-4a4b-a9c8-ccd9bfacfa8c.png" alt="Image Description" width="750"/>
-</div>
+![image](https://github.com/user-attachments/assets/d5b9678f-8cd9-4011-9580-edaaf1ec63cd)
 
 ## Overview
 
